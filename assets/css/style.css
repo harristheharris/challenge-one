@@ -13,7 +13,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #D90429;
     color: #ffffff;
     /*We're targeting our header class here. We are defiining our padding value, our font-family, giving a background of blue, a test color of white. As a side note, I don't know if it's better to make a heading class or to simply target the header elememnt. I would imaigne that most of the time our heading is going to stay the same on all our pages. However, just to be safe I probably would make a class for it.Not sure what is better though.*/
 }
@@ -92,7 +92,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #EF233C;
     color: #ffffff;
 }
 
@@ -113,7 +113,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #DC4D5E;
     /*More basic stuff. The clear is new however and determines how boxes will display adjacent to it. In this case nothing may be adjacent to it which is why we see each box inside this class goes to the next line*/
 }
 
